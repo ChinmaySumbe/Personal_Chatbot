@@ -2,7 +2,7 @@
 
 🚀 A **streamlit-based chatbot** using **Cohere AI** to generate responses in real-time.
 
-##Live - https://pchatbot.streamlit.app/
+## **Live - https://pchatbot.streamlit.app/**
 
 ---
 
@@ -100,7 +100,7 @@ streamlit run frontend.py
 
 ## **👨‍💻 Author**
 
-✉️ **Your Name**\
+✉️ **Chinmay Sumbe**\
 🔗 [LinkedIn](https://www.linkedin.com/in/chinmay-sumbe/)\
 🐙 [GitHub](https://github.com/ChinmaySumbe)
 
